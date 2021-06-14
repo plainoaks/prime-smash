@@ -1,1 +1,1 @@
-# prime-smash
+# Prime Smash Game
